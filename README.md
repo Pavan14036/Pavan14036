@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavan birari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan birari" height="30" width="40" /></a>
-<a href="https://medium.com/@pavancodecraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pavancodecraft" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pavan birari" target="blank"><img align="center" src="https://raw.githubusercontent.com/Pavan14036/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan birari" height="30" width="40" /></a>
+<a href="https://medium.com/@pavancodecraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/Pavan14036/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pavancodecraft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
